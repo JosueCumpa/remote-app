@@ -1,0 +1,23 @@
+
+▄▀▀▀ ▀▀▀▀   █▀▀█ █▀▀█ ▄▀▀▀ █  █
+█    ▀▀▀▀   █▀▀▀ █▀▀█ █    █▀▀▄
+▀    ▀▀▀▀ ▀ ▀    ▀  ▀  ▀▀▀ ▀  ▀
+5.2.3, powered by [1mwebpack[22m
+
+ [1mr[22m: Reload app
+ [1md[22m: Open developer menu
+ [1mj[22m: Open debugger
+ [1ma[22m: Run adb reverse
+
+Press Ctrl+c or Ctrl+z to quit the dev server
+
+[34mi[39m [90m[22:03:04.902Z][39m[1m[DevServer][22m Server listening at http://[::1]:8082 
+[34mi[39m [90m[22:03:04.907Z][39m[1m[DevServer][22m Server listening at http://127.0.0.1:8082 
+- [90m[22:03:29.849Z][39m[1m[DevServer][22m [................]  3% [32mandroid[39m 
+| [90m[22:03:32.943Z][39m[1m[DevServer][22m [[32m####[39m............] 25% [32mandroid[39m 
+\ [90m[22:03:36.392Z][39m[1m[DevServer][22m [[32m#####[39m...........] 33% [32mandroid[39m 
+\ [90m[22:03:40.148Z][39m[1m[DevServer][22m [[32m#####[39m...........] 33% [32mandroid[39m 
+\ [90m[22:03:41.785Z][39m[1m[DevServer][22m [[32m#######[39m.........] 41% [32mandroid[39m 
+| [90m[22:03:47.333Z][39m[1m[DevServer][22m [[32m#######[39m.........] 41% [32mandroid[39m 
+[34mi[39m [90m[22:03:50.785Z][39m[1m[Module Federation Manifest Plugin][22m [ Module Federation Manifest Plugin ] Manifest Link: http://localhost:8082/android/mf-manifest.json  
+[32m✓[39m [90m[22:03:50.902Z][39m[1m[DevServer][22m Compiled [32mandroid[39m in [32m21.0s[39m 
